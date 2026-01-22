@@ -98,5 +98,5 @@ completely free and open source, do whatever you want with it!
 
 ---
 
-Thanks to [Melih Karakelle](https://x.com/MelihKarakelle) for showing me the GeekMagic Ultra, and [fazibear](https://blog.fazibear.me/my-own-geekmagic-smalltv/) for the inspiration to hack it without hardware mods.
+Thanks to [Melih Karakelle](https://x.com/MelihKarakelle) and [fazibear](https://blog.fazibear.me/my-own-geekmagic-smalltv/) for the inspiration to hack it.
 
